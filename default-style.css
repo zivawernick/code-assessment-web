@@ -1,0 +1,215 @@
+.Buttons {
+  width: 1280px;
+  height: 769px;
+}
+
+.Hey-diddle-diddle-T-Copy {
+  width: 292px;
+  height: 138px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.44;
+  letter-spacing: normal;
+}
+
+.Text-Link {
+  width: 80px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 21px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.4px;
+}
+
+.Your-cart-is-empty {
+  width: 113px;
+  height: 16px;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+.Default {
+  width: 73px;
+  height: 17px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+.BG-disabled {
+  width: 139px;
+  height: 41px;
+  opacity: 0.3;
+  background-color: #5e97d1;
+  background-color: var(--cornflower-blue);
+}
+
+.BG {
+  width: 139px;
+  height: 41px;
+  background-color: #5e97d1;
+  background-color: var(--cornflower-blue);
+}
+
+.BG-hover {
+  width: 139px;
+  height: 41px;
+  background-color: #407fc0;
+  background-color: var(--windows-blue);
+}
+
+.Secondary-Button {
+  width: 161px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 21px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.4px;
+}
+
+.Rectangle-4 {
+  width: 95px;
+  height: 40px;
+  background-color: #f5f5f5;
+  background-color: var(--white-two);
+}
+
+.Line-2 {
+  width: 14px;
+  height: 2px;
+  border: solid 2px #8e939c;
+}
+
+.Line-2-hover {
+  width: 14px;
+  height: 2px;
+  border: solid 2px #ffffff;
+}
+
+.Line-2-disabled {
+  width: 14px;
+  height: 2px;
+  border: solid 2px #dedede;
+}
+.Primary-CTA {
+  width: 115px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 21px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.4px;
+}
+
+.Disabled {
+  width: 80px;
+  height: 17px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+.Hover {
+  width: 57px;
+  height: 17px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+
+.Aa-Copy {
+  width: 66px;
+  height: 57px;
+  font-family: Arial;
+  font-size: 51px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+
+.Arial-Bold {
+  width: 69px;
+  height: 17px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+
+.Arial {
+width: 33px;
+height: 17px;
+font-family: Arial;
+font-size: 16px;
+font-weight: normal;
+font-style: normal;
+font-stretch: normal;
+line-height: normal;
+letter-spacing: normal;
+}
+
+.Aa {
+  width: 63px;
+  height: 57px;
+  font-family: Arial;
+  font-size: 51px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+.layer-PCTA {
+  width: 93px;
+  height: 16px;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.2px;
+}
+.layer-PCTA-hover {
+  width: 93px;
+  height: 16px;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.2px;
+}

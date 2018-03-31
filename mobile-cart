@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+
+
+.Bitmap-mobile {
+  width: 268px;
+  height: 196px;
+  object-fit: contain;
+}
+HTML
+<!-- png -->
+<img src="img/bitmap.png"
+     srcset="img/bitmap@2x.png 2x,
+             img/bitmap@3x.png 3x"
+     class="Bitmap">
+<!-- jpg -->
+<img src="img/bitmap.jpg"
+     srcset="img/bitmap@2x.jpg 2x,
+             img/bitmap@3x.jpg 3x"
+     class="Bitmap">
+</style>
+</head>
+</html>html>
